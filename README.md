@@ -1,10 +1,8 @@
-# creating-a-react-app-from-scratch
+# creating a react-web3 app from scratch
 
 This is a simple react implementation, as seen in [this article](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
 
 ## Getting Started
-
-_(Note: this project was created in Node v9.3.0)_
 
 Clone this repo and install dependencies with `npm install`.
 
