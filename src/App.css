@@ -1,4 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ADDING BACKGROUND COLOR, FONT  FAMILY, FOREGROUND COLOR AND MINIMUN HEIGHT TO OUR PAGE  */
+body{
+    background-image: linear-gradient(120deg, #5f57d1, #c065c0);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    min-height: 100vh;
+}
+
 .App {
-  margin: 1rem;
-  font-family: Arial, Helvetica, sans-serif;
+	width: 400px;
+	height: 600px;
+	border: 1px solid #fff;
+	margin-top: 30px;
+	margin-left: 450px;
+
+}
+
+.App h1 { 
+	margin: 10px;
+	margin-left: 110px;
+	
+}
+
+
+.Connect button{
+
+	padding: 10px;
+    background: #ff3700;
+    color: white;
+    border: 1px solid #000;
+    margin-top: 10px;
+    margin-left: 135px;
+    cursor: pointer;
+
+}
+
+
+
+.showData {
+	margin: 10px;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+.show {
+	padding: 5px
+}
+
+.transaction {
+	margin: 10px;
+	margin-top: 30px;
+}
+
+.transaction button {
+	padding: 10px;
+    background: #ff3700;
+    color: white;
+    border: 1px solid #000;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.send {
+	padding: 5px
+}
+
+
+.transaction input {
+	width: 100%;
+	padding:5px;
 }
