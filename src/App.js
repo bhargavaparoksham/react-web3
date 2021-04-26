@@ -120,11 +120,11 @@ class App extends Component {
 
                 });
 
-                // this.state.tDai.methods.approve(this.state.toAddress, this.state.transferAmount).send({ from: this.state.account, gas1 }).on('transactionHash', (hash) => {
-    //                  this.state.tDai.methods.transfer(this.state.toAddress, this.this.state.transferAmount).send({ from: this.state.account }).on('transactionHash', (hash) => {
-    //              console.log("Transfer Sucessfull")
-    //              })
-    //          });
+             // this.state.tDai.methods.approve(this.state.toAddress, this.state.transferAmount).send({ from: this.state.account, gas1 }).on('transactionHash', (hash) => {
+             //     this.state.tDai.methods.transfer(this.state.toAddress, this.this.state.transferAmount).send({ from: this.state.account }).on('transactionHash', (hash) => {
+             //         console.log("Transfer Sucessfull")
+             //    })
+             //});
             }
         
         } catch (error) {
