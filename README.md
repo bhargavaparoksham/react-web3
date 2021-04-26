@@ -4,8 +4,6 @@ This is a simple react implementation, as seen in [this article](https://blog.us
 
 ## Getting Started
 
-_(Note: this project was created in Node v9.3.0)_
-
 Clone this repo and install dependencies with `npm install`.
 
 ### Starting The Dev Server
